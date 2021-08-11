@@ -1,0 +1,96 @@
+// Defining a variable
+$gray: #F4F4F4;
+
+h1 {
+  margin-left: 20px;
+  margin-top:40px;
+  font-size: 32px ;
+  color: rgba(0, 0, 0, 0.959);
+  font-family: sans-serif;
+  padding-left: 20px;
+  padding-top: 40px;
+}
+
+h2 {
+  margin-left: 20px;
+  margin-top:40px;
+  font-size: 32px ;
+  color: rgba(0, 0, 0, 0.959);
+  font-family: sans-serif;
+  padding-left: 70px;
+  padding-top: 40px;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: rgb(121, 75, 248);
+  margin-left: 20px;
+  padding: 20px;
+}
+
+body {
+  background: white; // Using this variable
+}
+
+.btn {
+  background-color: rgb(99, 49, 238);
+  width: 100px;
+  font-family: sans-serif;
+  color: white;
+  border-radius: 5px;
+  margin-left: 0px;
+}
+
+.btn2 {
+  background-color: rgb(99, 49, 238);
+  width: 100px;
+  font-family: sans-serif;
+  color: white;
+  border-radius: 5px;
+  margin: 40px;
+}
+
+.celda {
+  width: 300px;
+  padding-left: 20px;
+  margin-left: 40px; 
+}
+
+.card {
+  width: 500 px;
+  background-color: rgb(229, 220, 236);
+  border-color: black;
+  border-radius: 20px;
+  width: 600px;
+  height: 350px;
+  margin-left: 40px;
+}
+
+.card2 {
+  background-color: white;
+  width:400px;
+  height: 45px;
+  padding-left: 20px;
+  margin: 20px;
+  margin-left: 80px;
+  border-radius: 10px;
+  font-family: sans-serif;
+  color:gray;
+  
+}
+
+.card2:hover {
+  background-color: rgb(248, 229, 238);
+}
+
+a {
+  padding-left: 400px;
+  margin: 5px;
+  color:rgb(141, 141, 243)
+}
+
+a:hover {
+  color:gray;
+}
+
